@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>SnapchatPlus_Duplicate</string>
+				<string>com.Justin.Snapchat</string>
 				<key>bundle-version</key>
 				<string>10.19.5.0</string>
 				<key>kind</key>
